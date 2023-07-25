@@ -1,0 +1,1 @@
+enum Rutas { login, inicio }
